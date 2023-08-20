@@ -29,7 +29,7 @@ function App() {
       setAnimationName({
         animationName: "event",
       });
-    }, 3000);
+    }, 60000);
   }, []);
   return (
     <div className="App">
