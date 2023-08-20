@@ -27,7 +27,7 @@ function App() {
   useEffect(() => {
     setTimeout(() => {
       setAnimationName({
-        animationName: "event",
+        border: "4px solid #0066ff",
       });
     }, 60000);
   }, []);
